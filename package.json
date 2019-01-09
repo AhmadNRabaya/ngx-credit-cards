@@ -1,11 +1,11 @@
 {
-  "name": "ngx-credit-cards",
-  "version": "1.0.9",
+  "name": "hotelsme-ngx-credit-cards",
+  "version": "1.0.10",
   "description": "A Credit Card Directives and Reactive Form Validators package for Angular X (4+)",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rm -rf build && ngc build -p ./tsconfig.json",
+    "build": "ngc build -p ./tsconfig.json",
     "prepublish": "tsc",
     "packagr": "ng-packagr -p ng-package.json"
   },
@@ -61,7 +61,7 @@
     "rxjs": "^5.0.1",
     "ts-node": "1.2.1",
     "tslint": "^4.0.2",
-    "typescript": "2.6.2",
+    "typescript": "3.1.1",
     "zone.js": "^0.7.2"
   },
   "dependencies": {

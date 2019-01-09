@@ -45,3 +45,17 @@ Thumbs.db
 *.metadata.json
 *.map.js
 *.js  # or /src/**/*.js
+
+directives/*.js
+directives/*.map
+directives/*.json
+validators/*.js
+validators/*.map
+validators/*.json
+
+*.js
+*.js.map
+
+package-lock.json
+ngxcreditcard.module.ngsummary.json
+index.ngsummary.json
