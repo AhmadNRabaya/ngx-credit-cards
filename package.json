@@ -1,6 +1,6 @@
 {
-  "name": "hotelsme-ngx-credit-cards",
-  "version": "1.0.10",
+  "name": "credit-cards-validator-ang",
+  "version": "1.0.13",
   "description": "A Credit Card Directives and Reactive Form Validators package for Angular X (4+)",
   "main": "dist/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zenkkor/ngx-credit-cards.git"
+    "url": "git+https://github.com/AhmadNRabaya/ngx-credit-cards.git"
   },
   "keywords": [
     "angular",
@@ -70,7 +70,7 @@
   "author": "Rok Knez <rok@zenk.si> (http://zenk.si)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zenkkor/ngx-credit-cards/issues"
+    "url": "https://github.com/AhmadNRabaya/ngx-credit-cards/issues"
   },
-  "homepage": "https://github.com/zenkkor/ngx-credit-cards#readme"
+  "homepage": "https://github.com/AhmadNRabaya/ngx-credit-cards#readme"
 }
